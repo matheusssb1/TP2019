@@ -1,0 +1,5 @@
+USA-63, also known as GPS II-8 and GPS SVN-21, was an American navigation satellite which formed part of the Global Positioning System. It was the eighth of nine Block II GPS satellites to be launched, which were the first operational GPS satellites to fly.
+
+USA-63 was launched at 05:39:00 UTC on 2 August 1990, atop a Delta II carrier rocket, flight number D197, flying in the 6925 configuration.[3] The launch took place from Launch Complex 17A at the Cape Canaveral Air Force Station,[5] and placed USA-63 into a transfer orbit. The satellite raised itself into medium Earth orbit using a Star-37XFP apogee motor.[1]
+
+On 3 September 1990, USA-63 was in an orbit with a perigee of 19,932 kilometres (12,385 mi), an apogee of 20,433 kilometres (12,696 mi), a period of 718 minutes, and 54.7 degrees of inclination to the equator.[4] It operated in slot 2 of plane E of the GPS constellation.[6] The satellite had a mass of 840 kilograms (1,850 lb), and generated 710 watts of power.[2] It had a design life of 7.5 years,[1] and ceased operations on 27 January 2003.
